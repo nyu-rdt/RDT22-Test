@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info
+writing ../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info/requires.txt
+writing top-level names to ../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info/top_level.txt
+writing manifest file '../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nyu-rdt/manualcontrol_ws/build/manualcontrol_pkg/build
+creating /home/nyu-rdt/manualcontrol_ws/build/manualcontrol_pkg/build/lib
+creating /home/nyu-rdt/manualcontrol_ws/build/manualcontrol_pkg/build/lib/manualcontrol_pkg
+copying manualcontrol_pkg/__init__.py -> /home/nyu-rdt/manualcontrol_ws/build/manualcontrol_pkg/build/lib/manualcontrol_pkg
+running install
+running install_lib
+creating /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/lib/python3.8/site-packages/manualcontrol_pkg
+copying /home/nyu-rdt/manualcontrol_ws/build/manualcontrol_pkg/build/lib/manualcontrol_pkg/__init__.py -> /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/lib/python3.8/site-packages/manualcontrol_pkg
+byte-compiling /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/lib/python3.8/site-packages/manualcontrol_pkg/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/share/ament_index
+creating /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/share/ament_index/resource_index
+creating /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/share/ament_index/resource_index/packages
+copying resource/manualcontrol_pkg -> /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/share/manualcontrol_pkg
+running install_egg_info
+Copying ../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info to /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/lib/python3.8/site-packages/manualcontrol_pkg-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/nyu-rdt/manualcontrol_ws/build/manualcontrol_pkg/install.log'

@@ -1,0 +1,29 @@
+[1.308s] Invoking command in '/home/nyu-rdt/manualcontrol_ws/src/manualcontrol_pkg': PYTHONPATH=/home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/manualcontrol_pkg build --build-base /home/nyu-rdt/manualcontrol_ws/build/manualcontrol_pkg/build install --prefix /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg --record /home/nyu-rdt/manualcontrol_ws/build/manualcontrol_pkg/install.log --single-version-externally-managed
+[1.745s] running egg_info
+[1.746s] writing ../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info/PKG-INFO
+[1.747s] writing dependency_links to ../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info/dependency_links.txt
+[1.747s] writing entry points to ../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info/entry_points.txt
+[1.748s] writing requirements to ../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info/requires.txt
+[1.748s] writing top-level names to ../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info/top_level.txt
+[1.817s] reading manifest file '../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info/SOURCES.txt'
+[1.819s] writing manifest file '../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info/SOURCES.txt'
+[1.819s] running build
+[1.820s] running build_py
+[1.820s] copying manualcontrol_pkg/publisher_member_function.py -> /home/nyu-rdt/manualcontrol_ws/build/manualcontrol_pkg/build/lib/manualcontrol_pkg
+[1.820s] copying manualcontrol_pkg/subscriber_member_function.py -> /home/nyu-rdt/manualcontrol_ws/build/manualcontrol_pkg/build/lib/manualcontrol_pkg
+[1.821s] running install
+[1.821s] running install_lib
+[1.823s] copying /home/nyu-rdt/manualcontrol_ws/build/manualcontrol_pkg/build/lib/manualcontrol_pkg/publisher_member_function.py -> /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/lib/python3.8/site-packages/manualcontrol_pkg
+[1.824s] copying /home/nyu-rdt/manualcontrol_ws/build/manualcontrol_pkg/build/lib/manualcontrol_pkg/subscriber_member_function.py -> /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/lib/python3.8/site-packages/manualcontrol_pkg
+[1.825s] byte-compiling /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/lib/python3.8/site-packages/manualcontrol_pkg/publisher_member_function.py to publisher_member_function.cpython-38.pyc
+[1.827s] byte-compiling /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/lib/python3.8/site-packages/manualcontrol_pkg/subscriber_member_function.py to subscriber_member_function.cpython-38.pyc
+[1.828s] running install_data
+[1.829s] copying package.xml -> /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/share/manualcontrol_pkg
+[1.829s] running install_egg_info
+[1.832s] removing '/home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/lib/python3.8/site-packages/manualcontrol_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[1.833s] Copying ../../build/manualcontrol_pkg/manualcontrol_pkg.egg-info to /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/lib/python3.8/site-packages/manualcontrol_pkg-0.0.0-py3.8.egg-info
+[1.835s] running install_scripts
+[1.869s] Installing listener script to /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/lib/manualcontrol_pkg
+[1.869s] Installing talker script to /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/lib/manualcontrol_pkg
+[1.870s] writing list of installed files to '/home/nyu-rdt/manualcontrol_ws/build/manualcontrol_pkg/install.log'
+[1.920s] Invoked command in '/home/nyu-rdt/manualcontrol_ws/src/manualcontrol_pkg' returned '0': PYTHONPATH=/home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/manualcontrol_pkg build --build-base /home/nyu-rdt/manualcontrol_ws/build/manualcontrol_pkg/build install --prefix /home/nyu-rdt/manualcontrol_ws/install/manualcontrol_pkg --record /home/nyu-rdt/manualcontrol_ws/build/manualcontrol_pkg/install.log --single-version-externally-managed
